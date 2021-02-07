@@ -18,7 +18,7 @@ const App = () => {
               <Route exact path="/about" component={About}/>
             </Switch>
           </div>
-        </Fragment>  
+        </Fragment>
       </Router>
     </ContactState>
   );
